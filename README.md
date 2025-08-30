@@ -95,5 +95,3 @@ What’s Next for SmartGridGuard
 6. Actionable recommendations: beyond flagging anomalies, suggest corrective actions (for example, check HVAC, reschedule equipment usage).
 
 ---
-
-Would you like me to also reformat this into a **very short version (1–2 pages)** so it looks concise for a GitHub README, or keep it detailed like this?
